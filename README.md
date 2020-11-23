@@ -12,4 +12,4 @@ so
 2- git clone (ssh)
 3- git add .  -> track files
 4- git status
-5- git commit -m "my most recent update"
+5- git commit -m "For the title of the update" -m "For the discription of the commit"
