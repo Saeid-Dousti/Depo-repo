@@ -13,3 +13,6 @@ so
 3- git add .  -> track files
 4- git status
 5- git commit -m "For the title of the update" -m "For the discription of the commit"
+6- git restore --> restores to the latest commited version
+7- ssh-keygen -t rsa -b -C "saeid1dousti@gmail.com"
+8- 
