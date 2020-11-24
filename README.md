@@ -76,7 +76,10 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
         >>>>>>> main
     head is the branch we are at and after ==== line is the other branch
 
-4- 
+### v) Undoing at git
 
+so I will add a line here and I add the README file but not commit it. 
+
+1- 
 
 
