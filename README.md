@@ -48,6 +48,6 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 
 2- git checkout -b feature-readme-instruction  --> to create a new branch
 
-3- git checkout master --> to switch between branches (go to master)
+3- git checkout master --> to switch between branches (go to master) and shows the file in the new branch with updates and features!
 
 4- 
