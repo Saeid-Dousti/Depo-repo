@@ -78,11 +78,11 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 
 ### v) Undoing at git
 
-1- git reset README.md  --> this will reset the added but not commited README.md
+1- git reset README.md  --> this will reset (unstages) the added but not commited README.md
 
 so I will add a line here and I add the README file but not commit it. 
+ --- this line is not supposed to be here eeeeeeeeeeee---
  
- 
-2- 
+2- git reset HEAD~1  ---> uncommits and unstages (removes what was added by add)
 
 
