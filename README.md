@@ -79,7 +79,9 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 ### v) Undoing at git
 
 so I will add a line here and I add the README file but not commit it. 
+ --- this line is not supposed to be here ---
+1- git reset README.md  --> this will reset the added but not commited README.md
 
-1- 
+2- 
 
 
