@@ -59,3 +59,5 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 
 1- git branch -d feature-readme-instruction
 
+2- git commit -am "add and commit"  --> adds and commits ONLY a modified file not newly created file!
+
