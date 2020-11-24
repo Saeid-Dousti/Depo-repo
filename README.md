@@ -55,5 +55,7 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
     
 5- git push -u origin feature-readme-instruction --> push the commited branch to a new branch on github
 
-6- 
+### iv) After merging the branch to the main(master) branch
+
+1- git branch -d feature-readme-instruction
 
