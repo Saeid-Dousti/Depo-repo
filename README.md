@@ -94,5 +94,6 @@ so I will add a line here and I add the README file but not commit it.
 
 fbdd4b966883845d99165add202b8558e250d424 is the commit hash
 
-4- git reset fbdd4b966883845d99165add202b8558e250d424
+4- git reset fbdd4b966883845d99165add202b8558e250d424  --->  removes the commits after this commit
 
+5- 
