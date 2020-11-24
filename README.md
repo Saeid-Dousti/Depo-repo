@@ -85,4 +85,6 @@ so I will add a line here and I add the README file but not commit it.
  
 2- git reset HEAD~1  ---> uncommits and unstages (removes what was added by add)
 
+3- git log  ---> shows all the commits in reverse order
+
 
