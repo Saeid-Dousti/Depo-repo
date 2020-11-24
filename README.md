@@ -53,5 +53,7 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 4- git diff feature-readme-instruction     --->  showing the differences between the current branch and the one type in the command, i.e. feature-readme-instruction
     press q to end seeing the differences
     
-5- 
+5- git push -u origin feature-readme-instruction --> push the commited branch to a new branch on github
+
+6- 
 
