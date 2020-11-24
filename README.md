@@ -67,6 +67,16 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
         Auto-merging index.html
         CONFLICT (content): Merge conflict in index.html
         Automatic merge failed; fix conflicts and then commit the result.
+        
+   on the index.html file we have 
+        <<<<<<< HEAD
+        <p>world</p>    
+        =======
+        <p>there</p>
+        >>>>>>> main
+    head is the branch we are at and after ==== line is the other branch
+
+4- 
 
 
 
