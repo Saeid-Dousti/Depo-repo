@@ -50,4 +50,7 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 
 3- git checkout master --> to switch between branches (go to master) and shows the file in the new branch with updates and features!
 
-4- 
+4- git diff feature-readme-instruction     --->  showing the differences between the current branch and the one type in the command, i.e. feature-readme-instruction
+
+5- 
+
