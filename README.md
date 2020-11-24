@@ -96,4 +96,4 @@ fbdd4b966883845d99165add202b8558e250d424 is the commit hash
 
 4- git reset fbdd4b966883845d99165add202b8558e250d424  --->  removes the commits after this commit but the lines related to those commits will be here only unstaged and uncommited
 
-5- 
+5- git reset --hard 200f14621f65e96485ac5a3cf44251363ef9e18a  --->  removes the commits after this commit + the lines related to those commits after this will be removed as well
