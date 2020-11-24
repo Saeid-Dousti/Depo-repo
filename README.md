@@ -55,9 +55,18 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
     
 5- git push -u origin feature-readme-instruction --> push the commited branch to a new branch on github
 
+6- git merge 
+
 ### iv) After merging the branch to the main(master) branch
 
-1- git branch -d feature-readme-instruction
+1- git branch -d feature-readme-instruction  ---> deleting the already merged branch
 
 2- git commit -am "add and commit"  --> adds and commits ONLY a modified file not newly created file!
+
+3- git merge --> this merge flags due to conflict
+        Auto-merging index.html
+        CONFLICT (content): Merge conflict in index.html
+        Automatic merge failed; fix conflicts and then commit the result.
+
+
 
