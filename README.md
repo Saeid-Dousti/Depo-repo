@@ -2,6 +2,8 @@
 
 In this tutorial I have included the summary of the following tutorial video and git commands
 
+[![GitHub issues](https://img.shields.io/github/issues/Saeid-Dousti/Git-tutorial-repo?style=plastic)](https://github.com/Saeid-Dousti/Git-tutorial-repo/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Saeid-Dousti/Git-tutorial-repo)](https://github.com/Saeid-Dousti/Git-tutorial-repo/network)
 [![HitCount](http://hits.dwyl.com/Saeid-Dousti/https://githubcom/Saeid-Dousti/Git-tutorial-repo.svg)](http://hits.dwyl.com/Saeid-Dousti/https://githubcom/Saeid-Dousti/Git-tutorial-repo)
 
 watch tutorial on youtube at 
