@@ -1,8 +1,6 @@
 # Demo
 
-salaam! :)
-
-## subheader
+In this tutorial I have included the summary of the following tutorial video and git commands
 
 watch tutorial on youtube at 
 https://www.youtube.com/watch?v=RGOj5yH7evk
