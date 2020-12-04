@@ -2,6 +2,8 @@
 
 In this tutorial I have included the summary of the following tutorial video and git commands
 
+[![HitCount](http://hits.dwyl.com/Saeid-Dousti/https://githubcom/Saeid-Dousti/Git-tutorial-repo.svg)](http://hits.dwyl.com/Saeid-Dousti/https://githubcom/Saeid-Dousti/Git-tutorial-repo)
+
 watch tutorial on youtube at 
 https://www.youtube.com/watch?v=RGOj5yH7evk
 
