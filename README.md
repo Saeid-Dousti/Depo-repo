@@ -101,3 +101,37 @@ fbdd4b966883845d99165add202b8558e250d424 is the commit hash
 5- git reset --hard 200f14621f65e96485ac5a3cf44251363ef9e18a  --->  removes the commits after this commit + the lines related to those commits after this will be removed as well
 
 6- git remote set-url origin new_url   --->   to reset the remote url that is renamed on github
+
+### vi) Tagging at git
+
+https://git-scm.com/book/en/v2/Git-Basics-Tagging  <---  git info website
+
+Git has the ability to tag specific points in a repository’s history as being important. Typically, people use this functionality to mark release points (v1.0, v2.0 and so on). 
+Git supports two types of tags: lightweight and annotated.
+
+1- git tag  ---> lists all the existing tags
+
+2- git tag -l "v1.8.5*"  --->  looks for tags with this pattern
+
+3- git tag -a v1.4 -m "my version 1.4"  ---> creating annotated tags
+
+4- git show v1.4  ---> That shows the tagger information, the date the commit was tagged, and the annotation message before showing the commit information.
+tag v1.4
+Tagger: Saeid Dousti <Dousti_s@yahoo.com>
+Date:   Sat May 3 20:19:12 2014 -0700
+
+my version 1.4
+
+commit ca82a6dff817ec66f44342007202690a93763949
+Author: Scott Chacon <schacon@gee-mail.com>
+Date:   Mon Mar 17 21:52:11 2008 -0700
+
+    Change version number
+
+5-  git tag v1.4-lw  ---> creating lightweight tags
+git show v1.4-1w
+commit ca82a6dff817ec66f44342007202690a93763949
+Author: Scott Chacon <schacon@gee-mail.com>
+Date:   Mon Mar 17 21:52:11 2008 -0700
+
+    Change version number
