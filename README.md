@@ -134,4 +134,9 @@ commit ca82a6dff817ec66f44342007202690a93763949
 Author: Scott Chacon <schacon@gee-mail.com>
 Date:   Mon Mar 17 21:52:11 2008 -0700
 
+### vii) visual log
+
+git can show the branches and commits in a graph:
+
+1- gitk
     Change version number
